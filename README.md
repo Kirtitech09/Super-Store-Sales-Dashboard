@@ -1,4 +1,4 @@
-# Super-Store-Sales-Dashboard-with-PowerBI
+# Super-Store-Sales-Dashboard
 To contribute to the success of business by utilising data analysis techniques specially time series analysis to provide valuable insights and accurate sales forecasting.
 # Project Learning 
 * Created interactive dashboard to track and analyse sales data.
